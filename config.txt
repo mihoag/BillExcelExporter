@@ -1,0 +1,27 @@
+[xacnhan1]
+header_row = 17
+alignment = {"C":"left","G":"right","I":"right","J":"left"}
+format_number = [G,H,I]
+font_color = {"A":"FF0000FF","J":"FFFF0000"}
+formula_multiply = G,H,I
+
+[xacnhan2]
+header_row = 15
+alignment = {"D":"left","G":"right","I":"right","J":"left"}
+format_number = [G,H,I]
+font_color = {"A":"FF0000FF","J":"FFFF0000"}
+formula_multiply = G,H,I
+
+[baogia1]
+header_row = 15
+alignment = {"B":"left","D":"left","G":"right","I":"right"}
+format_number = [G,H,I]
+font_color = {"B":"FF0000FF","J":"FFFF0000"}
+formula_multiply = G,H,I
+
+[baogia2]
+header_row = 17
+alignment = {"B":"left","C":"left","G":"right","I":"right"}
+format_number = [G,H,I]
+font_color = {"B":"FF0000FF","J":"FFFF0000"}
+formula_multiply= G,H,I
